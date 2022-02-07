@@ -19,3 +19,11 @@ print('Estou iniciando minha caminhada na carreira de Cientista de Dados')
 
 # Criar gráficos
 plot(1:25)
+
+# Função help
+help(mean)
+?mean
+
+# Se não souber o nome da função
+help.search('randomForest')
+??randomForest
